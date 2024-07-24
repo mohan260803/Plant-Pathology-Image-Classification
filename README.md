@@ -1,6 +1,8 @@
 # Plant-Pathology-Image-Classification
 A model which includes Exploratory Data Analysis and the classification model of a dataset of images of plant leaves. The leaves are divided into 4 different categories, that are healthy, scab, rust and mulriple diseases. 
 
+I have also added the zip file for this jupyter file since there might be some issues in opening the code block. You can download it and then check it out.
+
 # Data Description
 Data has been taken from kaggle. It includes 3 csv files: test, train and submission. It also includes a folder with the images of the plant leaves. 
 ## train.csv
